@@ -1,6 +1,13 @@
-title: Minimal theme
+title: <p align="center"> Rajanikant Badiger </p>
 logo: /assets/img/logo.png
-description: Minimal is a theme for GitHub Pages.
-show_downloads: true
-google_analytics:
-theme: jekyll-theme-minimal
+
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://github.com/RAJANIKANT007">GitHub</a>
+  
+  <br>   
+  I'm working as Lead Engineer in Collins Aerospace India, currently working on the AW139 and Platform SoftwareProblems.
+  have total 6.5 years of experience in Embedded Software Development and 3 years of experience in D0-178 B/C.
+  <br>
+  </p>
