@@ -10,87 +10,70 @@ There should be whitespace between paragraphs.
 
 There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
 
-# Header 1
+# Project Name: Smart Cooler
 
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
+Client: CcoolerIOT
 
-## Header 2
+The goal of this project is to make a Cooler as SmartCooler by Monitoring the
+Cooler Parameters such as temperature, Humidity ambient light etc..
 
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
+● ARM based board firmware development in Nordic SDK and C programming
+language.
 
-### Header 3
+● Sensor Interface - Motion sensor, Temperature, Humidity, Ambient Light with I2C
+communication.
 
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
+● Flash memory interface using SPI interface.
 
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
+● Door Open/Close detection based on motion sensor.
 
-#### Header 4
+● Cooler movement detection, Collecting, storing and managing sensor data.
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+● BLE interface - Advertising, Data transfer, Firmware upgrade.
 
-##### Header 5
+● Integrated testing and debugging.
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+# Project Name: SmartLighting
 
-###### Header 6
+Client: POC
 
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
+Technologies: C, Linux, SPI, I2C protocols, Sensor Interface and Bluetooth Interface,
 
-### There's a horizontal rule below this.
+Period: June 2016 to Aug 2017
 
-* * *
+Team Size: 2
 
-### Here is an unordered list:
+Role: Individual Contributor, writing and testing code for Sensors using I2C or SPI
+protocols. Programming of Bluetooth Interface and Firmware upgrade.
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+Description: The goal of this project is to provide and to maintain uniform lux level inside
+building and Automated Controlling of the Lights based on people detection..
 
-### And an ordered list:
+● Application development on cc3200 Launchpad.
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+# Project Name: Eclipse Gaming Systems
 
-### And a nested list:
+Client: Eclipse
 
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
+Technologies: C ++.
+
+Period: Oct 2017 to July 2018
+
+Team Size: 4
+
+Role: Individual Contributor, writing and testing code for extended features of the game.
+programming new features and Integrating the new character assets to the Game.
+
+Description: The goal of this project is to add new gaming features to existing Eclipse
+gaming platform.
+
+● Re-skinning Entire Game Characters.
+
+● Features Implementation
+
+● Card-flip and Symbol replace feature Implementation.
+
+● Game Rotating Wheel Button feature Implementation.
 
 ### Small image
 
